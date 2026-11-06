@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**openos07/openos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧠 OpenOS (@openos07)
 
-Here are some ideas to get you started:
+[![OpenOS Repository](https://img.shields.io/badge/Repository-openos07%2Fopenos-3b82f6?style=for-the-badge&logo=github)](https://github.com/openos07/openos)
+[![CA Soon Available](https://img.shields.io/badge/CA-Soon%20Available-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/openos07/openos)
+[![Release v0.3.0](https://img.shields.io/badge/Release-v0.3.0-10b981?style=for-the-badge&logo=github)](https://github.com/openos07/openos/releases/tag/v0.3.0)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge)](https://github.com/openos07/openos/blob/main/LICENSE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### **A Debian-based Operating System where AI is the Interface.**
+*Talk to your computer. It understands.*
+
+</div>
+
+> [!IMPORTANT]
+> 🚀 **Official Contract Address (CA):** Soon Available — Official announcements and verified links are published exclusively in [openos07/openos](https://github.com/openos07/openos). Beware of impersonators!
+
+---
+
+## 🌟 What is OpenOS?
+
+[**OpenOS**](https://github.com/openos07/openos) replaces traditional menus, terminals, and app launchers with a unified sovereign AI interface. Built on Debian Bookworm and powered by local open-weight LLMs via Ollama, OpenOS translates your natural language into native operating system actions:
+
+- **Traditional OS:** User ➔ App ➔ Action
+- **OpenOS:** User ➔ AI ➔ Action
+
+```bash
+openos "open my project files"
+openos "clean and optimize my system"
+openos "prepare my work setup"
+openos "play some lo-fi music"
+```
+
+---
+
+## ✨ Flagship Capabilities
+
+| Feature | Highlight |
+|---|---|
+| 🗣️ **Natural Language Control** | Interact effortlessly via AI Shell, Voice, or GTK4 Desktop Panel |
+| ⚡ **Autonomous Task Engine** | Multi-step task decomposition and native Linux execution |
+| 🔒 **100% Sovereign Local AI** | Zero telemetry, offline inference powered by Ollama |
+| 📁 **Smart File & System Manager** | Automatic file organization, system maintenance, and deduplication |
+| 🧠 **Persistent Memory** | Learns workflows and custom preferences locally |
+
+---
+
+## 🚀 Quick Navigation
+
+- 💻 **Core Repository:** [github.com/openos07/openos](https://github.com/openos07/openos)
+- 🌐 **Project Website:** [openos07.github.io/openos](https://openos07.github.io/openos/)
+- 📦 **Latest Release:** [OpenOS v0.3.0](https://github.com/openos07/openos/releases/tag/v0.3.0)
+- 📖 **Architecture Docs:** [ARCHITECTURE.md](https://github.com/openos07/openos/blob/main/docs/ARCHITECTURE.md)
+- 💿 **ISO Build Guide:** [isobuild.md](https://github.com/openos07/openos/blob/main/docs/isobuild.md)
+
+---
+
+## 🛠️ Technology Stack
+
+- **Operating System Base:** Debian 12 (Bookworm) / Live Build
+- **Core Runtime:** Python 3.11+, AsyncIO
+- **Local AI Brain:** Ollama, Function Calling & Tool Routing
+- **Desktop Environment:** GTK 4, Libadwaita
+- **Automation & Shell:** Bash, Make, Custom Event Bus Daemon
+
+---
+
+## 📬 Connect & Community
+
+- **Creator:** Yashab Alam
+- **X / Twitter:** [@Yashab_cyber](https://x.com/Yashab_cyber)
+- **LinkedIn:** [Yashab Alam](https://www.linkedin.com/in/yashab-alam)
+- **Instagram:** [@yashabcyber](https://www.instagram.com/yashabcyber)
+- **Email inquiries:** `yashabalam9@gmail.com` • `yashabalam707@gmail.com`
+
+<div align="center">
+
+*Empowering humans with sovereign, accessible, and intelligent computing.*
+
+</div>
