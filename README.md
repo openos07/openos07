@@ -75,8 +75,6 @@ openos "play some lo-fi music"
 
 - **Creator:** Yashab Alam
 - **X / Twitter:** [@_gh0st0fs0l](https://x.com/_gh0st0fs0l)
-- **LinkedIn:** [Yashab Alam](https://www.linkedin.com/in/yashab-alam)
-- **Instagram:** [@yashabcyber](https://www.instagram.com/yashabcyber)
 - **Email inquiries:** `yashabalam9@gmail.com` • `yashabalam707@gmail.com`
 
 <div align="center">
