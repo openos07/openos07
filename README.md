@@ -1,25 +1,29 @@
 <div align="center">
 
+<img src="logo.png" alt="OpenOS Logo" width="180" />
+
 # 🧠 OpenOS (@openos07)
 
-[![OpenOS Repository](https://img.shields.io/badge/Repository-openos07%2Fopenos-3b82f6?style=for-the-badge&logo=github)](https://github.com/openos07/openos)
-[![CA Soon Available](https://img.shields.io/badge/CA-Soon%20Available-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/openos07/openos)
-[![Release v0.3.0](https://img.shields.io/badge/Release-v0.3.0-10b981?style=for-the-badge&logo=github)](https://github.com/openos07/openos/releases/tag/v0.3.0)
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge)](https://github.com/openos07/openos/blob/main/LICENSE)
+### *The Sovereign AI-Native Operating System*
+**Talk to your computer. It understands.**
 
 <br/>
 
-### **A Debian-based Operating System where AI is the Interface.**
-*Talk to your computer. It understands.*
+[![OpenOS Repository](https://img.shields.io/badge/Repository-openos07%2Fopenos-3b82f6?style=for-the-badge&logo=github)](https://github.com/openos07/openos)
+[![CA Soon Available](https://img.shields.io/badge/CA-Soon%20Available-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/openos07/openos)
+[![Website Live](https://img.shields.io/badge/Website-openos.live-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openos07.github.io/openos/)
+[![Release v0.3.0](https://img.shields.io/badge/Release-v0.3.0-10b981?style=for-the-badge&logo=github)](https://github.com/openos07/openos/releases/tag/v0.3.0)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge)](https://github.com/openos07/openos/blob/main/LICENSE)
 
 </div>
 
 > [!IMPORTANT]
-> 🚀 **Official Contract Address (CA):** Soon Available — Official announcements and verified links are published exclusively in [openos07/openos](https://github.com/openos07/openos). Beware of impersonators!
+> 🚀 **Official Contract Address (CA):** **Soon Available**  
+> Stay tuned on our official channels. Official token and address verification will be announced exclusively on [github.com/openos07/openos](https://github.com/openos07/openos). Beware of fake contracts!
 
 ---
 
-## 🌟 What is OpenOS?
+## 🌟 Welcome to OpenOS
 
 [**OpenOS**](https://github.com/openos07/openos) replaces traditional menus, terminals, and app launchers with a unified sovereign AI interface. Built on Debian Bookworm and powered by local open-weight LLMs via Ollama, OpenOS translates your natural language into native operating system actions:
 
@@ -47,7 +51,7 @@ openos "play some lo-fi music"
 
 ---
 
-## 🚀 Quick Navigation
+## 🚀 Official Links & Resources
 
 - 💻 **Core Repository:** [github.com/openos07/openos](https://github.com/openos07/openos)
 - 🌐 **Project Website:** [openos07.github.io/openos](https://openos07.github.io/openos/)
